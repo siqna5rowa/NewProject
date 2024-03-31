@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "048392c8-035d-4769-ae51-14d926f92e1c",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET https://api.github.com/repos/SiqnaPetrova/TestRepo/issues",
+			"id": "14d97c7a-f435-459c-9e19-f28de7673b7a",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "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",
+						"value": "",
+						"type": "text"
+					}
+				],
+				"url": "GET https://api.github.com/repos/SiqnaPetrova/TestRepo/issues"
+			},
+			"response": []
+		}
+	]
+}
